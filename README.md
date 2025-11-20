@@ -73,13 +73,4 @@ If you decide to improve Breezio later, here are natural upgrades:
 ## 🧑‍💻 Developer
 
 Built with patience, caffeine, and student-life chaos by **Zlmaoooo**.
-
-If you keep refining Breezio, it can become a solid portfolio piece — or even your first deployed web app.
-
 ---
-
-If you want, I can also generate:
-• A second banner style,
-• Badges (like “Made with HTML/CSS/JS”),
-• UI screenshots mockups,
-• Or help you polish this README to perfection.
